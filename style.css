@@ -1,0 +1,7 @@
+#top-banner {
+    color: rgb(175, 52, 52);
+        font-size: 30px;
+    background-color: rgba(30, 30, 30, 0.7);
+    overflow: auto;
+    text-align: center;
+}
